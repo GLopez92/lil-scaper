@@ -1,2 +1,2 @@
-# lil-scaper-
+# lil-scaper
 A Python Scraper
